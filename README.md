@@ -2,4 +2,4 @@ php-api
 =======
 
 some api for zabix integration
-http://10.0.0.14
+http://10.0.0.14/php-api
